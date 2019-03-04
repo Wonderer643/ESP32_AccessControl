@@ -1,4 +1,4 @@
-# ESP32_AccessConrtol
+# ESP32_AccessControl
 RFID and WiFi Access Control system based on ESP32.
 ESP32 acts as a WiFi AP and all configuration is done via the WEB based interface.
 
