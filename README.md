@@ -16,6 +16,16 @@ ESP32 acts as a WiFi AP and all configuration is done via the WEB based interfac
 - Reset switch
 - 220V AC input power
 
+## Build with
+- [Arduino 1.8.7](https://www.arduino.cc/)  
+- [Arduino core for the ESP32](https://github.com/espressif/arduino-esp32)
+
+#### Libraries
+- DS1302 library from Krodal (arduino.cc)  
+- [LinkedList](https://github.com/ivanseidel/LinkedList) library v1.2.3 by Ivan Seidel  
+- [MFRC522](https://github.com/miguelbalboa/rfid) library v1.4.3 by GithubCommunity
+
+### Hardware
 The corresponding schematics and PCB can be found at [EasyEDA project](https://easyeda.com/wonderer643/esp32_access)
 
 ### License
