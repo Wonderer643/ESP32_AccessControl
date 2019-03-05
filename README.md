@@ -7,7 +7,7 @@ ESP32 acts as a WiFi AP and all configuration is done via the WEB based interfac
 - WiFI Access Point WPA2 security
 - Access control using WiFi probes (access control by receiving WiFi prob messages from WiFI clients)
 - Access control using WiFi connect/attach from authorised clients
-- Date/time clock with backup battery and synchronization from the WiFi clients (via WEB interface)
+- Date/time clock with backup battery and synchronization from the WiFi clients (via WEB interface). Possibility of date/time based access control (future planned feature.)
 - Logging of the access events
 - Adaptive (small & big screens) WEB interface for configuration and access management
 - Inverted Relay mode operation (no restriction of access if device is not powered)
